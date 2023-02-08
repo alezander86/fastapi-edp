@@ -1,0 +1,1 @@
+1. Application fastapi-create-def has been successfully deployed!!
